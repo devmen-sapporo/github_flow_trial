@@ -2,7 +2,8 @@ github-flow-trial
 ===============
 maven プロジェクトです。 m2e プラグイン入れて使って。[M2E - Maven Integration for Eclipse]  
 src/main/java がコード格納フォルダです。 Package はデフォルトで構いません。  
-src/test/java がテストコード格納フォルダです。 テストコードは任意。  
+src/test/java がテストコード格納フォルダです。 テストコードは任意。 
+
 ===============
 1. master ブランチから clone してローカルに取り込む。
 2. 各自 issue を確認し、master からブランチを作成。 ブランチ名は "‐" 区切りの機能名。
@@ -13,6 +14,7 @@ src/test/java がテストコード格納フォルダです。 テストコー�
 
 ===============
 https://gist.github.com/Gab-km/3705015  < ここを参考にしたよ   
+
 ===============
 
 [![Build Status](https://travis-ci.org/devmen-sapporo/github_flow_trial.svg?branch=master)](https://travis-ci.org/devmen-sapporo/github_flow_trial)
