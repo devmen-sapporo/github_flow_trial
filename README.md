@@ -1,4 +1,4 @@
-GItHubFlowTrial
+github-flow-trial  
 ===============
 
 やってみる
