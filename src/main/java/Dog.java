@@ -6,7 +6,11 @@
  *
  */
 public class Dog {
-	private static String name = "Pochi";
+	private static String name;
+	
+	public Dog (String name) {
+		this.name = name;
+	}
 	
 	public String getName() {
 		return Dog.name;

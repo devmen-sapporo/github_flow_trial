@@ -10,8 +10,8 @@ public class DogTest {
 	
 	@Test
 	public void testGetName() {
-		this.sut = new Dog();
-		assertThat(sut.getName(), is("Pochi"));
+		this.sut = new Dog("Maeda");
+		assertThat(sut.getName(), is("Maeda"));
 	}
 
 }
