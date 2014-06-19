@@ -11,6 +11,7 @@ public class Dog {
 	
 	/**
 	 * get name
+	 * 
 	 * @return name
 	 */
 	public String getName() {
