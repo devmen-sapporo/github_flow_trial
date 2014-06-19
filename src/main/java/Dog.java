@@ -8,6 +8,10 @@
 public class Dog {
 	private static String name = "Pochi";
 	
+	/**
+	 * get name
+	 * @return name
+	 */
 	public String getName() {
 		return Dog.name;
 	}
