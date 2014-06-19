@@ -6,9 +6,13 @@
  *
  */
 public class Dog {
-	private static String name = "Pochii";
+	private String name;
+	
+	public Dog (String name) {
+		this.name = name;
+	}
 	
 	public String getName() {
-		return Dog.name;
+		return this.name;
 	}
 }
