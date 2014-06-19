@@ -13,6 +13,6 @@ public class Dog {
 	}
 	
 	public String getName() {
-		return Dog.name;
+		return this.name;
 	}
 }
