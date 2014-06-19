@@ -11,7 +11,7 @@ public class DogTest {
 	@Test
 	public void testGetName() {
 		this.sut = new Dog();
-		assertThat(sut.getName(), is("Pochi"));
+		assertThat(sut.getName(), is("Pochii"));
 	}
 
 }
