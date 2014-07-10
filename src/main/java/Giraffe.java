@@ -1,7 +1,11 @@
 public class Giraffe {
-  private static String name = "太郎";
+  private String name;
+
+  public Giraffe(String name) {
+    this.name = name;
+  }
 
   public String getName() {
-    return Giraffe.name;
+    return this.name;
   }
 }
