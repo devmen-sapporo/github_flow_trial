@@ -1,5 +1,7 @@
 public class Giraffe {
+  private static String name = "太郎";
+
   public String getName() {
-    return "太郎";
+    return Giraffe.name;
   }
 }
