@@ -2,7 +2,7 @@ github-flow-trial
 ===============
 maven プロジェクトです。 m2e プラグイン入れて使って。[M2E - Maven Integration for Eclipse]  
 src/main/java がコード格納フォルダです。 Package はデフォルトで構いません。  
-src/test/java がテストコード格納フォルダです。 テストコードは任意。 
+src/test/java がテストコード格納フォルダです。 テストコードは任意。 1
 
 ===============
 1. master ブランチから clone してローカルに取り込む。
