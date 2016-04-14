@@ -16,5 +16,5 @@ src/test/java がテストコード格納フォルダです。 テストコー�
 https://gist.github.com/Gab-km/3705015  < ここを参考にしたよ   
 
 ===============
-
+AA
 [![Build Status](https://travis-ci.org/devmen-sapporo/github_flow_trial.svg?branch=master)](https://travis-ci.org/devmen-sapporo/github_flow_trial)
